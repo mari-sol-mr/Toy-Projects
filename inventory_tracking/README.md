@@ -6,6 +6,8 @@ Tools used:
  - barcode scanner: opencv
  - database: postgres
 
+![home page](home_page.png)
+![inventory](inventory_records_page.png)
 
-![home page](inventory_records_page.png)
+
 
