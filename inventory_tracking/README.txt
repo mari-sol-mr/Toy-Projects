@@ -8,7 +8,7 @@ Tools used:
 
 
  Inline-style: 
-![alt text](https://github.com/mari-sol-mr/Toy-Projects/blob/main/inventory_tracking/inventory_records_page.png "inventory")
+![home page](inventory_records_page.png)
 
  Inline-style: 
 ![alt text](https://github.com/mari-sol-mr/Toy-Projects/blob/main/inventory_tracking/home_page.png "home page")
