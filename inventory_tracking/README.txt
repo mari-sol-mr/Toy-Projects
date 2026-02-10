@@ -7,8 +7,5 @@ Tools used:
  - database: postgres
 
 
- Inline-style: 
 ![home page](inventory_records_page.png)
 
- Inline-style: 
-![alt text](https://github.com/mari-sol-mr/Toy-Projects/blob/main/inventory_tracking/home_page.png "home page")
